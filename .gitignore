@@ -13,11 +13,9 @@ pannel/
 catboost_info/
 models/
 *.parquet
-
-models/
-*.npy
-*.joblib
 *.pkl
+*.cbm
+*.joblib
 
 reports/
 
